@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on absolutly nothing
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I got certified with A+ when I was 15
+- ⚡ Fun fact: CompTIA A+ certified at 15
 
 <!---
 AlphaReuel/AlphaReuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
