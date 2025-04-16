@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AlphaReuel
-- 👀 I’m interested in parental control developing
-- 🌱 I’m currently learning C# and Winforms
+- 👀 I’m interested in parental control development
+- 🌱 I’m currently learning C# and WinUI3
 - 💞️ I’m looking to collaborate on absolutly nothing
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me (504) 500-8708
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: CompTIA A+ certified at 15
 
 <!---
